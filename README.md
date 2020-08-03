@@ -6,12 +6,13 @@ In this repositories, you can download pictures and documents for DNA storage, b
 the video files are too large, you need to move to the website of Communication University
 of China to download.
 
-The Statistics folder contains COVID-19 statistics, as for July 17, 2020.
-Contains four statistical data tables including regional epidemic data, news data, China's domestic statistics and rumor data.
+1. The Statistics folder contains COVID-19 statistics, as for July 17, 2020.
+   Contains four statistical data tables including regional epidemic data, news data, China's domestic statistics and rumor data.
+2. The picture folder contains ten pictures, recorded by the Beijing News reporter Tao Ran, taken by Pu Feng, edited by Yin Nan, and proofread by Zhai Yongjun.
 
-The picture folder contains ten pictures, recorded by the Beijing News reporter Tao Ran, taken by Pu Feng, edited by Yin Nan, and proofread by Zhai Yongjun.
+3. The video file includes the COVID-19 documentary \<First Line>, a total of three episodes, and a documentary during the epidemic in Wuhan <A documentary during COVID-19 How they celebrated Chinese New Year 2020 in Wuhan>
 
-The video file includes the COVID-19 documentary \<First Line>, a total of three episodes, and a documentary during the epidemic in Wuhan <A documentary during COVID-19 How they celebrated Chinese New Year 2020 in Wuhan>
+
 
 \<First Line> video URL of the documentary:
 
@@ -23,3 +24,8 @@ The video file includes the COVID-19 documentary \<First Line>, a total of three
 URL of the documentary:
 
 > https://www.youtube.com/watch?v=h-G4EC5meDI  
+
+
+
+------
+
