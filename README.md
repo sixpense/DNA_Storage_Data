@@ -11,13 +11,15 @@ Contains four statistical data tables including regional epidemic data, news dat
 
 The picture folder contains ten pictures, recorded by the Beijing News reporter Tao Ran, taken by Pu Feng, edited by Yin Nan, and proofread by Zhai Yongjun.
 
-The video file includes the COVID-19 documentary <First Line>, a total of three episodes, and a documentary during the epidemic in Wuhan <A documentary during COVID-19 How they celebrated Chinese New Year 2020 in Wuhan>
+The video file includes the COVID-19 documentary \<First Line>, a total of three episodes, and a documentary during the epidemic in Wuhan <A documentary during COVID-19 How they celebrated Chinese New Year 2020 in Wuhan>
 
-<First Line> video URL of the documentary:
-http://www.cuc.edu.cn/2020/0615/c5339a171178/page.htm
-http://www.cuc.edu.cn/2020/0622/c5339a171292/page.htm
-http://www.cuc.edu.cn/2020/0624/c5339a171370/page.htm
+\<First Line> video URL of the documentary:
 
-<A documentary during COVID-19 How they celebrated Chinese New Year 2020 in Wuhan> video
+> http://www.cuc.edu.cn/2020/0615/c5339a171178/page.htm
+> http://www.cuc.edu.cn/2020/0622/c5339a171292/page.htm
+> http://www.cuc.edu.cn/2020/0624/c5339a171370/page.htm
+
+\<A documentary during COVID-19 How they celebrated Chinese New Year 2020 in Wuhan> video
 URL of the documentary:
-https://www.youtube.com/watch?v=h-G4EC5meDI  
+
+> https://www.youtube.com/watch?v=h-G4EC5meDI  
